@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE librairie SYSTEM "LibrairieCorrection.dtd">
+<!DOCTYPE librairie SYSTEM "Librairie.dtd">
 <librairie>
     <entete>Librairie donnée en <strong>exemple</strong>. &copyright;</entete>
     <livre isbn="12345">
